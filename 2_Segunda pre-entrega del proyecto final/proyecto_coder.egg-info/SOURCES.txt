@@ -1,0 +1,8 @@
+setup.py
+proyecto_coder.egg-info/PKG-INFO
+proyecto_coder.egg-info/SOURCES.txt
+proyecto_coder.egg-info/dependency_links.txt
+proyecto_coder.egg-info/top_level.txt
+proyecto_final/__init__.py
+proyecto_final/modulo1.py
+proyecto_final/modulo2.py

@@ -1,0 +1,1 @@
+from proyecto_final import modulo1, modulo2

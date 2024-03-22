@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: proyecto-coder
+Version: 0.1
+Summary: paquete pre_entrega
+Author: Tu Nombre
+Author-email: porcodante8@example.com
+License: MIT
+Keywords: ejemplo paquete
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
