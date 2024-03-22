@@ -18,8 +18,3 @@ class Cliente:
         
     def agregar_intereses(self, interes):
         self.intereses.append(interes)
-    
-# Ejemplo de uso
-p1 = Cliente("Dante", 12, "porcodante8@gmail.com", "Argentina", ["tecnologia", "electronica"])
-
-print(p1)
