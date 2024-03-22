@@ -13,13 +13,7 @@ print("1 -> ", f.readline())
 for movie in f.readlines():
     movie_data = movie.split(",")
     recaudacion = int(movie_data[5])
-    
-    if recaudacion >= recaudacion:
-        recaudacion = recaudacion
-        
-
-        
-        
+    print(recaudacion)
 
 
 
